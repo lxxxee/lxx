@@ -1,0 +1,7 @@
+{
+  "name": "Thai Voice Expense Tracker",
+  "description": "An AI-powered expense tracker that converts voice commands into structured data for spreadsheet management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
