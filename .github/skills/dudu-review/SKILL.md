@@ -1,11 +1,20 @@
 ---
 name: dudu-review
-description: Review changes in this repository for safe, reliable personal automation on macOS Apple Silicon, zsh, and GitHub Actions.
+description: Automatically use this skill whenever reviewing code, pull requests, commits, diffs, scripts, GitHub Actions, setup instructions, or personal automation in this repository. Review for safe, reliable operation on macOS Apple Silicon and zsh.
 ---
 
 # Dudu Code Review
 
-Review only the proposed change and its stated issue or PR goal. Do not modify production code.
+## Automatic use
+
+Use this skill automatically when a request involves any of the following in this repository:
+- Reviewing a pull request, commit, diff, branch, or changed file.
+- Checking whether code, scripts, commands, or workflows are safe or correct.
+- Reviewing GitHub Actions, deployment, setup, maintenance, or recovery changes.
+- Reviewing personal automation, AI-assisted workflows, remote access, smart-home integrations, or scheduled tasks.
+- Approving, validating, merging, or deciding whether a change is ready.
+
+Do not require the user to name this skill. Apply it whenever these conditions match. Review only the proposed change and its stated issue or PR goal. Do not modify production code.
 
 ## Standards
 
